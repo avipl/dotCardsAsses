@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "tables": {
+        "users": {
+            "cols": [
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "addr",
+                    "type": "string"
+                }
+            ]
+        }
+    }
+}
